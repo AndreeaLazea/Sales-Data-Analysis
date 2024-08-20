@@ -1,0 +1,2 @@
+# Sales Data Analysis
+ This project is a Python-based data analysis tool that processes sales data from a CSV file to extract key business insights. The script calculates total units sold, average revenue per unit, and identifies the highest revenue-generating day. The results are outputted to a summary text file for easy review. This tool is ideal for small businesses or educational purposes, demonstrating basic data manipulation, numerical computations with NumPy, and data processing using pandas.
