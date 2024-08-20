@@ -1,0 +1,22 @@
+Sales Data Analysis Summary 
+===========================
+
+====Total profit: $1335.00
+====Median Revenue: $122.50
+====Mean Revenue: $133.50
+====Total units sold: 
+Product
+Gadget B    20
+Gizmo C     17
+Widget A    34
+====Total profit: 
+Product
+Gadget B    400.0
+Gizmo C     425.0
+Widget A    510.0
+====The Highest Revenue: 
+Date             2024-08-04
+Product             Gizmo C
+Units Sold               10
+Unit Price             25.0
+Total Revenue         250.0
